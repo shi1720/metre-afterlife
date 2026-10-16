@@ -1,0 +1,148 @@
+[
+  {
+    "id": "cipm1992",
+    "url": "https://www.bipm.org/en/-/committees/ci/cipm/81-1992/resolution-3",
+    "status": 200,
+    "sha256": "7ad0d3781b0380f9deaadfa6e40ec99be52a95bc364ded9566b7b5b105c7a708",
+    "snapshot_filename": "cipm1992.html",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cipm1997",
+    "url": "https://www.bipm.org/en/committees/ci/cipm/86-1997/resolution-1",
+    "status": 200,
+    "sha256": "e006ea283e2aecf758821ecf918f1ea5d5a9c20315f1b1f62241508859987803",
+    "snapshot_filename": "cipm1997.html",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cipm1983",
+    "url": "https://www.bipm.org/en/committees/ci/cipm/72-1983/resolution-1",
+    "status": 200,
+    "sha256": "f61b3c702f3372dfad5e68b70a30887d1e177e498a1f45149c747d8e1fe5e2dc",
+    "snapshot_filename": "cipm1983.html",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cgpm1983",
+    "url": "https://www.bipm.org/en/committees/cg/cgpm/17-1983/resolution-1",
+    "status": 200,
+    "sha256": "e8ac622125674f1ede2a3b47eb11938f2b44d0c924ca423615a89734980b9698",
+    "snapshot_filename": "cgpm1983.html",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cgpm1960",
+    "url": "https://www.bipm.org/en/committees/cg/cgpm/11-1960/resolution-6",
+    "status": 200,
+    "sha256": "067f20eb5aaa600b6916f752c6ea8ee331d7d6830524b1c054d6cbba57f56463",
+    "snapshot_filename": "cgpm1960.html",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cgpm1975",
+    "url": "https://www.bipm.org/en/committees/cg/cgpm/15-1975/resolution-2",
+    "status": 200,
+    "sha256": "2f31fcecb6df063e9baa7c3caef7bed1b5735b70ec0081dca84a21f5048e7ebd",
+    "snapshot_filename": "cgpm1975.html",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "jennings1987",
+    "url": "https://nvlpubs.nist.gov/nistpubs/jres/092/jresv92n1p11_A1b.pdf",
+    "status": 200,
+    "sha256": "9066dc1531e395ee5aa1951cc01c9733ea223d8f5f810a8600faceaeca1adefb",
+    "snapshot_filename": "jennings1987.pdf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "nistmeter",
+    "url": "https://www.nist.gov/si-redefinition/meter",
+    "status": 200,
+    "sha256": "88bcfeac005b5f67480f672163c20f94a6c3e383394c355d08d8250ec091cd91",
+    "snapshot_filename": "nistmeter.html",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "nrc2000",
+    "url": "https://publications-cnrc.canada.ca/eng/view/ft/?id=4752bbee-84a5-410d-8cf3-6ff6a55d4323",
+    "status": 200,
+    "sha256": "972615dc01b5a5a4069201412da2409f8ca4a47ed44b9517112a3b35aafb9437",
+    "snapshot_filename": "nrc2000.pdf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "nrc1997uncertainty",
+    "url": "https://publications-cnrc.canada.ca/eng/view/ft/?id=0bc23e60-6f36-4398-9971-38da4af1f0e7",
+    "status": 200,
+    "sha256": "6ad7260e1ba30bd9dbb189431f73af27f6a59ac338bbe499180dba1255f72345",
+    "snapshot_filename": "nrc1997uncertainty.pdf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "schodel2021",
+    "url": "https://eprintspublications.npl.co.uk/9442/1/eid9442.pdf",
+    "status": 200,
+    "sha256": "ce8796f0f7cdb8df7dfcd713a2ea7c0d051f9262f57932dae7b670911679e87a",
+    "snapshot_filename": "schodel2021.pdf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "gum",
+    "url": "https://www.bipm.org/documents/20126/2071204/JCGM_100_2008_E.pdf",
+    "status": 200,
+    "sha256": "41bbf068fbc0d7986c98691b2d1af6680cb3044f6a1a89b3560933ed9ef9626c",
+    "snapshot_filename": "gum.pdf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cipm1992french",
+    "url": "https://www.bipm.org/fr/committees/ci/cipm/81-1992/resolution-3",
+    "status": 200,
+    "sha256": "f0dd20ddf1e3e20256fda71ea545006fa99da51377fe0fab0272564fe1efdf47",
+    "snapshot_filename": "cipm1992french.html",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cipm1983proceedings",
+    "url": "https://www.bipm.org/documents/20126/17315032/CIPM72.pdf",
+    "status": 200,
+    "sha256": "516c1fca9b1a1787cb0a87bc278f3a4a76d19c50867b4ed941a0868a18c83346",
+    "snapshot_filename": "cipm1983proceedings.pdf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cipm1992proceedings",
+    "url": "https://www.bipm.org/documents/20126/17315032/CIPM81.pdf",
+    "status": 200,
+    "sha256": "2ddf77e7b049e6979c5e6d37ac81a28f683514c60918aef7d7c7f761a804d8a0",
+    "snapshot_filename": "cipm1992proceedings.pdf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "cipm1963proceedings",
+    "url": "https://www.bipm.org/documents/20126/17315032/CIPM52.pdf",
+    "status": 200,
+    "sha256": "046b90aa246d65d60a9b5bf14ba5f780a4f4f3bd6c8e1bcb339adc697bb9f20a",
+    "snapshot_filename": "cipm1963proceedings.pdf",
+    "retrieved": "2026-10-16"
+  },
+  {
+    "id": "hall2006",
+    "url": "https://doi.org/10.1103/RevModPhys.78.1279",
+    "retrieved": "2026-10-16",
+    "access": "primary publisher record and rendered article excerpt; no local snapshot"
+  },
+  {
+    "id": "oconnell1993",
+    "url": "https://doi.org/10.1177/030631293023001005",
+    "retrieved": "2026-10-16",
+    "access": "primary publisher abstract and record; no local snapshot"
+  },
+  {
+    "id": "mitchell2017",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0039368117302339",
+    "retrieved": "2026-10-16",
+    "access": "primary publisher abstract and record; no local snapshot"
+  }
+]

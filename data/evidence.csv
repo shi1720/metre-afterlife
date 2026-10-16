@@ -1,0 +1,19 @@
+claim_id,claim,source_id,locator,kind,limit
+E01,Krypton definition adopted in 1960,cgpm1960,Resolution6,decision,Does not enumerate installed lamps
+E02,Twelve secondary lamp lines authorized,cipm1963proceedings,printed pp26-27,decision,Conditions govern assigned values
+E03,Speed of light value recommended in 1975,cgpm1975,Resolution2,decision,Recommended before becoming exact by definition
+E04,1983 definition abrogates krypton definition but anticipates continued realization,cgpm1983,considerations and decisions,decision,Abolition of defining status is not withdrawal of every use
+E05,Three realization routes authorized,cipm1983,opening recommendation,decision,Not all routes require local absolute frequency measurement
+E06,Krypton and inherited lamp recommendations retained,cipm1983,sections2.1-2.2,decision,Retention does not establish installed use
+E07,1983 uncertainties print both overall figures and estimated standard deviations,cipm1983,sections1.1-1.5 and2.1,numerical,Historical protocols not assumed identical to modern GUM
+E08,Methane subdivided into two assigned regimes,cipm1992,sections1.1.1-1.1.2,decision,Do not substitute minimum for same-cell comparison
+E09,HTML unresolved methane unit corrected from official proceedings,cipm1992proceedings,printed p142 PDF p160,source_check,Published unit fm not HTML m
+E10,Tighter iodine conditions with parameters alone insufficient,cipm1992,section1.4,decision,Not a controlled upgrade experiment
+E11,Reference system repaired with particular tubes and skilled work,cipm1992proceedings,printed pp163-164,activity_report,Not a national adoption-rate estimate
+E12,576nm laser moved to section2.3 while assigned values retained,cipm1997,section2.3,classification,Heading-based disappearance is invalid
+E13,Calcium uncertainty and regime changed,cipm1997,section1.8,numerical,Does not identify performance of unchanged apparatus
+E14,Twelve legacy wavelengths explicitly listed,cipm1997,section2.2,numerical,Exact values checked against1963 independent transcription
+E15,NRC upgrades staged around operational calibration service,nrc2000,printed pp1-3,practice_report,One laboratory account
+E16,Cadmium replacement linked to image-processing characteristics,nrc2000,printed p5,practice_report,Does not give final retirement date for all NRC lamps
+E17,NRC uncertainty contributions and separate summary printed,nrc2000,printed p7 Table1,numerical,Displayed row sum and summary preserved separately
+E18,Competing laser choices involved performance cost and complexity,hall2006,Nobel lecture discussion of 1983 definition,retrospective,Participant recollection not every delegation motive

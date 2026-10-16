@@ -1,0 +1,14 @@
+test_calcium_requires_condition_change (test_analysis.AuditTests) ... ok
+test_complete_numbered_enumeration (test_analysis.AuditTests) ... ok
+test_convention_aware_ratios (test_analysis.AuditTests) ... ok
+test_frequency_wavelength_rounding (test_analysis.AuditTests) ... ok
+test_independent_budget_hand_calculation (test_analysis.AuditTests) ... ok
+test_lamp_retention (test_analysis.AuditTests) ... ok
+test_legacy_exact_unit_conversion (test_analysis.AuditTests) ... ok
+test_methane_modes_not_merged (test_analysis.AuditTests) ... ok
+test_reclassified_laser_survives (test_analysis.AuditTests) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.003s
+
+OK

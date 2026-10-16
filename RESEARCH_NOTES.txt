@@ -1,0 +1,27 @@
+RESEARCH DEVELOPMENT AND CONTRIBUTION BOUNDARIES
+16 October 2026
+
+Venue fit
+The official AIP call is for a history-of-physical-sciences conference, not an AI methods conference or a guaranteed proceedings publication. Metrology, instrumentation, computing and material practice are explicitly in scope. It allows independent scholars and works in progress. Submission is a title, an abstract of at most1300 characters, a biography of at most1300 characters, plus identity and affiliation, in a proposal PDF. The live form explicitly says full papers will not be considered. Deadline15 November2026; notifications by18 December2026.
+Official call: https://www.aip.org/history-programs/physics-history/early-career-conference
+
+Prior-work overlap
+The existing top-level research PDFs supplied by the author were text-extracted and their topics screened. None had the metre, krypton realization, international wavelength recommendations or this Canadian measurement-system reconstruction as its subject. Several used reproducible audits in other domains. This paper changes both substantive question and source corpus; it does not repackage one of those earlier datasets. No unpublished prior manuscript or private resume is redistributed.
+
+Literature search and decisions
+Search terms included: history metre1983 mise en pratique krypton lasers material continuity; metre mise en pratique history Quinn; metrology1983 historiography; metrology Quinn Schaffer standards history; metre1983 1997 historical uncertainty; metre uncertainty1992 1983 history; Gauge Block Calibration Decker40002; The Making of Measurement; Metrology Creation of Universality. Searches located both technical reports and historiographical antecedents.
+
+Direct antecedents:
+Jennings et al.1987 explicitly address continuity of the metre. Quinn1994 and1999 already publish detailed recommended values and their supporting sources. Hall2006 discusses cost, complexity and competition among laser standards. O'Connell1993 establishes the material work of universality. Mitchell, Tal and Chang2017 develop measurement as made practice. Schodel, Yacoot and Lewis2021 explain evolving practical realization. These exclude claims that this paper discovers continuity, plural realizations, lamp survival, or the underlying physics.
+
+The contribution is instead the joined documentary reconstruction: convention-preserving longitudinal matching; explicit regime subdivision and reclassification; independent legacy-value comparison; and connection to recorded repair and staged industrial calibration upgrades. The search did not locate this exact compilation. It is not an exhaustive multilingual systematic review, proof of priority, patent search or acceptance prediction. Practitioner literature already contains the raw facts. This is a focused historical contribution with reproducible support, not a new metrology technology or a claimed scientific breakthrough.
+
+Uncertainty and source limitations
+The31 rows are documentary assignments, not experiments or installed instruments. The12 inherited values establish numerical documentary continuity, not operating prevalence. The fixed NRC budget counterfactual is algebraic, not a new laboratory experiment. Published row entries and the budget summary differ; both are reported. Unrounded internal calculations and full archival correspondence were unavailable. Regional inequality, affordability, delegated motives and causal impact of upgrades are not estimated.
+
+Commercial relevance and public-source comparison
+The practical output could support version-aware inspection of calibration records and standards transitions. This is a product hypothesis, not a validated market or novel patent claim. Existing systems already cover calibration, uncertainty and traceability:
+- Fluke MET/CAL and MET/TEAM provide calibration automation and management: https://www.fluke.com/en-us/product/fluke-software/fluke-calibration-software
+- Beamex CMX documents calibration workflows and uncertainty calculation: https://www.beamex.com/calibration-software/cmx/
+- BIPM KCDB records recognized calibration and measurement capabilities and supporting comparisons: https://www.bipm.org/kcdb/cmc/advanced-search
+These primary product and institutional descriptions were checked on16 October2026. They show a mature adjacent domain. This review does not establish absence of version-aware features in those products. A possible narrowly scoped extension would retain source editions, uncertainty conventions and changes in admissible conditions together, with inspectors reviewing every claim. The present dataset and scripts are a small demonstrator; they are not a compliance service, commercial validation, estimated market size, or a substitute for accredited calibration.

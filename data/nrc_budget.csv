@@ -1,0 +1,26 @@
+group,factor,constant_nm,nm_per_mm
+End effects,fringe fraction,2,0
+End effects,wringing,6,0
+End effects,phase change,10,0
+End effects,flatness parallelism,2,0
+Optics,wavefront,3,0
+Optics,source size,0,.001
+Optics,alignment higher order,0,.1
+Laser,one year drift,0,.005
+Laser,calibration,0,.001
+Thermal,expansion coefficient,0,.005
+Thermal,gauge temperature calibration,0,.023
+Thermal,gauge temperature drift,0,.046
+Thermal,gradient,0,.069
+Thermal,reading resolution,0,.012
+Thermal,higher order term,0,.008
+Air,Ciddor equation,0,.010
+Air,pressure calibration,0,.014
+Air,pressure reading,0,.003
+Air,pressure drift,0,.008
+Air,temperature calibration,0,.002
+Air,temperature reading,0,.001
+Air,temperature drift,0,.004
+Air,humidity accuracy,0,.010
+Air,humidity reading,0,.001
+Air,humidity drift,0,.009

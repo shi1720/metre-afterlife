@@ -1,0 +1,288 @@
+{
+  "counts": {
+    "1983": 6,
+    "1992": 10,
+    "1997": 15
+  },
+  "legacy_lines": 12,
+  "comparisons": [
+    {
+      "key": "ch4-cell",
+      "years": [
+        1983,
+        1992
+      ],
+      "standard_ratio": 1.9130434782608696,
+      "mixed_convention_ratio": 5.6521739130434785,
+      "before_conditions": "pressure<=3 Pa; density<=1e4 W/m2; curvature>=1 m; counterpropagating inequality<=5%",
+      "after_conditions": "pressure<=3 Pa; density<=1e4 W/m2; curvature>=1 m; inequality<=5%; detector toward laser tube",
+      "interpretation": "ratio of documentary assigned uncertainties; not a controlled apparatus comparison"
+    },
+    {
+      "key": "i633",
+      "years": [
+        1983,
+        1992
+      ],
+      "standard_ratio": 13.6,
+      "mixed_convention_ratio": 40.0,
+      "before_conditions": "wall 16..50 C; cold finger 15 +/-1 C; power 15 +/-10 mW; modulation 6 +/-1 MHz",
+      "after_conditions": "wall 25 +/-5 C; cold finger 15 +/-0.2 C; power 10 +/-5 mW; modulation 6 +/-0.3 MHz; power shift coefficient<=1.4 kHz/mW",
+      "interpretation": "ratio of documentary assigned uncertainties; not a controlled apparatus comparison"
+    },
+    {
+      "key": "i612",
+      "years": [
+        1983,
+        1992
+      ],
+      "standard_ratio": 1.2333333333333334,
+      "mixed_convention_ratio": 3.6666666666666665,
+      "before_conditions": "cold finger -5 +/-2 C",
+      "after_conditions": "cold finger -5 +/-2 C",
+      "interpretation": "ratio of documentary assigned uncertainties; not a controlled apparatus comparison"
+    },
+    {
+      "key": "i515",
+      "years": [
+        1983,
+        1992
+      ],
+      "standard_ratio": 1.72,
+      "mixed_convention_ratio": 5.2,
+      "before_conditions": "cold finger -5 +/-2 C",
+      "after_conditions": "cold finger -5 +/-2 C",
+      "interpretation": "ratio of documentary assigned uncertainties; not a controlled apparatus comparison"
+    }
+  ],
+  "calcium_1992_1997": {
+    "key": "ca657",
+    "years": [
+      1992,
+      1997
+    ],
+    "standard_ratio": 750.0,
+    "mixed_convention_ratio": null,
+    "before_conditions": "thermal beam",
+    "after_conditions": "effectively stationary; second-order Doppler correction; recoil mean",
+    "interpretation": "ratio of documentary assigned uncertainties; not a controlled apparatus comparison"
+  },
+  "methane_1983_best_1992_ratio": 14.666666666666666,
+  "krypton_relative_shift": 4.952291194854319e-10,
+  "nrc_budget": [
+    {
+      "length_mm": 10,
+      "standard_nm": 12.442821223500722,
+      "expanded_k2_nm": 24.885642447001445,
+      "variance_shares": {
+        "End effects": 0.9300895598738695,
+        "Optics": 0.0645901986645464,
+        "Laser": 1.6793283719944867e-05,
+        "Thermal": 0.00493399593602534,
+        "Air": 0.00036945224183878715
+      },
+      "max_reduction_removing_laser_percent": 0.0008396677112054718,
+      "published_expanded_k2_nm": 24.966665776590997
+    },
+    {
+      "length_mm": 100,
+      "standard_nm": 18.313383084509535,
+      "expanded_k2_nm": 36.62676616901907,
+      "variance_shares": {
+        "End effects": 0.4293637068400024,
+        "Optics": 0.325034289462699,
+        "Laser": 0.0007752400262388933,
+        "Thermal": 0.22777148309380404,
+        "Air": 0.01705528057725565
+      },
+      "max_reduction_removing_laser_percent": 0.038769516689063366,
+      "published_expanded_k2_nm": 38.00631526470305
+    },
+    {
+      "length_mm": 1000,
+      "standard_nm": 135.61342116472102,
+      "expanded_k2_nm": 271.22684232944204,
+      "variance_shares": {
+        "End effects": 0.007829916807133925,
+        "Optics": 0.5442879669403513,
+        "Laser": 0.0014137349790658475,
+        "Thermal": 0.41536621173400035,
+        "Air": 0.031102169539448644
+      },
+      "max_reduction_removing_laser_percent": 0.07071174971102767,
+      "published_expanded_k2_nm": 289.0658056567743
+    }
+  ],
+  "table_constant_coefficient": 12.36931687685298,
+  "table_length_coefficient": 0.13504813956511955,
+  "frequency_wavelength_residuals": [
+    {
+      "year": 1983,
+      "section": "1.1",
+      "key": "ch4-cell",
+      "residual_fm": "-0.026799682684928339770232540595"
+    },
+    {
+      "year": 1983,
+      "section": "1.2",
+      "key": "i576",
+      "residual_fm": "0.0020996378360146042218512293035"
+    },
+    {
+      "year": 1983,
+      "section": "1.3",
+      "key": "i633",
+      "residual_fm": "0.0073678671515547237951009028748"
+    },
+    {
+      "year": 1983,
+      "section": "1.4",
+      "key": "i612",
+      "residual_fm": "0.0417333656415486663796614856336"
+    },
+    {
+      "year": 1983,
+      "section": "1.5",
+      "key": "i515",
+      "residual_fm": "-0.0279108393843968953596352914628"
+    },
+    {
+      "year": 1992,
+      "section": "1.1.1",
+      "key": "ch4-resolved",
+      "residual_fm": "0.000037433555726888996525384618"
+    },
+    {
+      "year": 1992,
+      "section": "1.1.2",
+      "key": "ch4-cell",
+      "residual_fm": "-0.004679686289395650432302702867"
+    },
+    {
+      "year": 1992,
+      "section": "1.2",
+      "key": "ca657",
+      "residual_fm": "0.0167657507419897684390763979642"
+    },
+    {
+      "year": 1992,
+      "section": "1.3",
+      "key": "i640",
+      "residual_fm": "-0.0469832182931417402997866898558"
+    },
+    {
+      "year": 1992,
+      "section": "1.4",
+      "key": "i633",
+      "residual_fm": "0.0003986274408433386690602667572"
+    },
+    {
+      "year": 1992,
+      "section": "1.5",
+      "key": "i612",
+      "residual_fm": "-0.0081116275846806773022528485149"
+    },
+    {
+      "year": 1992,
+      "section": "1.6",
+      "key": "i576",
+      "residual_fm": "0.0102395956261767372900842641105"
+    },
+    {
+      "year": 1992,
+      "section": "1.7",
+      "key": "i543",
+      "residual_fm": "-0.0152051812714147078796558288866"
+    },
+    {
+      "year": 1992,
+      "section": "1.8",
+      "key": "i515",
+      "residual_fm": "-0.0311328253659069837640186205842"
+    },
+    {
+      "year": 1997,
+      "section": "1.1",
+      "key": "h243",
+      "residual_fm": "-0.0000074672946055300160486812966"
+    },
+    {
+      "year": 1997,
+      "section": "1.2",
+      "key": "i515",
+      "residual_fm": "-0.0311328253659069837640186205842"
+    },
+    {
+      "year": 1997,
+      "section": "1.3",
+      "key": "i532",
+      "residual_fm": "0.0041491951140465786898955977384"
+    },
+    {
+      "year": 1997,
+      "section": "1.4",
+      "key": "i543",
+      "residual_fm": "-0.0152051812714147078796558288866"
+    },
+    {
+      "year": 1997,
+      "section": "1.5",
+      "key": "i612",
+      "residual_fm": "-0.0081116275846806773022528485149"
+    },
+    {
+      "year": 1997,
+      "section": "1.6",
+      "key": "i633",
+      "residual_fm": "0.0003986274408433386690602667572"
+    },
+    {
+      "year": 1997,
+      "section": "1.7",
+      "key": "i640",
+      "residual_fm": "-0.0469832182931417402997866898558"
+    },
+    {
+      "year": 1997,
+      "section": "1.8",
+      "key": "ca657",
+      "residual_fm": "0.0000309836848985715273061109909"
+    },
+    {
+      "year": 1997,
+      "section": "1.9",
+      "key": "sr674",
+      "residual_fm": "0.0027813258168897610367731478791"
+    },
+    {
+      "year": 1997,
+      "section": "1.10",
+      "key": "rb778",
+      "residual_fm": "-0.0004117406081658919775143907120"
+    },
+    {
+      "year": 1997,
+      "section": "1.11.1",
+      "key": "ch4-resolved",
+      "residual_fm": "0.000037433555726888996525384618"
+    },
+    {
+      "year": 1997,
+      "section": "1.11.2",
+      "key": "ch4-cell",
+      "residual_fm": "-0.004679686289395650432302702867"
+    },
+    {
+      "year": 1997,
+      "section": "1.12",
+      "key": "os10303",
+      "residual_fm": "0.00418233027049441417129044111"
+    },
+    {
+      "year": 1997,
+      "section": "2.3",
+      "key": "i576",
+      "residual_fm": "0.0102395956261767372900842641105"
+    }
+  ]
+}
