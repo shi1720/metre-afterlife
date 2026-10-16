@@ -144,5 +144,14 @@
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0039368117302339",
     "retrieved": "2026-10-16",
     "access": "primary publisher abstract and record; no local snapshot"
+  },
+  {
+    "id": "quinn1999",
+    "url": "https://citeseerx.ist.psu.edu/document?doi=a679c08edeafd7f0aa3845e2a21502494a03ea3b&repid=rep1&type=pdf",
+    "doi": "10.1088/0026-1394/36/3/7",
+    "retrieved": "2026-10-16",
+    "snapshot_filename": "quinn1999.pdf",
+    "sha256": "12a209d9ac6f557048ddc7b12c85542b07be94f58fdeccb8e7909c267f3318e5",
+    "access": "author report mirrored in scholarly repository; first two pages checked against official recommendation"
   }
 ]
